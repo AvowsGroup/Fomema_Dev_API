@@ -1,0 +1,12 @@
+D:\Projects\Avows_fomema\git\fomema_HR\Fomema_HR\Fomema.Utility\bin\Release\netcoreapp3.1\Fomema.Utility.deps.json
+D:\Projects\Avows_fomema\git\fomema_HR\Fomema_HR\Fomema.Utility\bin\Release\netcoreapp3.1\Fomema.Utility.dll
+D:\Projects\Avows_fomema\git\fomema_HR\Fomema_HR\Fomema.Utility\bin\Release\netcoreapp3.1\Fomema.Utility.pdb
+D:\Projects\Avows_fomema\git\fomema_HR\Fomema_HR\Fomema.Utility\bin\Release\netcoreapp3.1\Fomema.Model.dll
+D:\Projects\Avows_fomema\git\fomema_HR\Fomema_HR\Fomema.Utility\bin\Release\netcoreapp3.1\Fomema.Model.pdb
+D:\Projects\Avows_fomema\git\fomema_HR\Fomema_HR\Fomema.Utility\obj\Release\netcoreapp3.1\Fomema.Utility.csprojAssemblyReference.cache
+D:\Projects\Avows_fomema\git\fomema_HR\Fomema_HR\Fomema.Utility\obj\Release\netcoreapp3.1\Fomema.Utility.AssemblyInfoInputs.cache
+D:\Projects\Avows_fomema\git\fomema_HR\Fomema_HR\Fomema.Utility\obj\Release\netcoreapp3.1\Fomema.Utility.AssemblyInfo.cs
+D:\Projects\Avows_fomema\git\fomema_HR\Fomema_HR\Fomema.Utility\obj\Release\netcoreapp3.1\Fomema.Utility.csproj.CoreCompileInputs.cache
+D:\Projects\Avows_fomema\git\fomema_HR\Fomema_HR\Fomema.Utility\obj\Release\netcoreapp3.1\Fomema.Utility.csproj.CopyComplete
+D:\Projects\Avows_fomema\git\fomema_HR\Fomema_HR\Fomema.Utility\obj\Release\netcoreapp3.1\Fomema.Utility.dll
+D:\Projects\Avows_fomema\git\fomema_HR\Fomema_HR\Fomema.Utility\obj\Release\netcoreapp3.1\Fomema.Utility.pdb

@@ -1,0 +1,9 @@
+D:\Projects\Avows_fomema\git\fomema_HR\Fomema_HR\Fomema.Model\bin\Release\netcoreapp3.1\Fomema.Model.deps.json
+D:\Projects\Avows_fomema\git\fomema_HR\Fomema_HR\Fomema.Model\bin\Release\netcoreapp3.1\Fomema.Model.dll
+D:\Projects\Avows_fomema\git\fomema_HR\Fomema_HR\Fomema.Model\bin\Release\netcoreapp3.1\Fomema.Model.pdb
+D:\Projects\Avows_fomema\git\fomema_HR\Fomema_HR\Fomema.Model\obj\Release\netcoreapp3.1\Fomema.Model.csprojAssemblyReference.cache
+D:\Projects\Avows_fomema\git\fomema_HR\Fomema_HR\Fomema.Model\obj\Release\netcoreapp3.1\Fomema.Model.AssemblyInfoInputs.cache
+D:\Projects\Avows_fomema\git\fomema_HR\Fomema_HR\Fomema.Model\obj\Release\netcoreapp3.1\Fomema.Model.AssemblyInfo.cs
+D:\Projects\Avows_fomema\git\fomema_HR\Fomema_HR\Fomema.Model\obj\Release\netcoreapp3.1\Fomema.Model.csproj.CoreCompileInputs.cache
+D:\Projects\Avows_fomema\git\fomema_HR\Fomema_HR\Fomema.Model\obj\Release\netcoreapp3.1\Fomema.Model.dll
+D:\Projects\Avows_fomema\git\fomema_HR\Fomema_HR\Fomema.Model\obj\Release\netcoreapp3.1\Fomema.Model.pdb

@@ -1,0 +1,12 @@
+D:\Projects\Avows_fomema\git\fomema_HR\Fomema_HR\Fomema.DAL\bin\Release\netcoreapp3.1\Fomema.DAL.deps.json
+D:\Projects\Avows_fomema\git\fomema_HR\Fomema_HR\Fomema.DAL\bin\Release\netcoreapp3.1\Fomema.DAL.runtimeconfig.json
+D:\Projects\Avows_fomema\git\fomema_HR\Fomema_HR\Fomema.DAL\bin\Release\netcoreapp3.1\Fomema.DAL.runtimeconfig.dev.json
+D:\Projects\Avows_fomema\git\fomema_HR\Fomema_HR\Fomema.DAL\bin\Release\netcoreapp3.1\Fomema.DAL.dll
+D:\Projects\Avows_fomema\git\fomema_HR\Fomema_HR\Fomema.DAL\bin\Release\netcoreapp3.1\Fomema.DAL.pdb
+D:\Projects\Avows_fomema\git\fomema_HR\Fomema_HR\Fomema.DAL\obj\Release\netcoreapp3.1\Fomema.DAL.csprojAssemblyReference.cache
+D:\Projects\Avows_fomema\git\fomema_HR\Fomema_HR\Fomema.DAL\obj\Release\netcoreapp3.1\Fomema.DAL.AssemblyInfoInputs.cache
+D:\Projects\Avows_fomema\git\fomema_HR\Fomema_HR\Fomema.DAL\obj\Release\netcoreapp3.1\Fomema.DAL.AssemblyInfo.cs
+D:\Projects\Avows_fomema\git\fomema_HR\Fomema_HR\Fomema.DAL\obj\Release\netcoreapp3.1\Fomema.DAL.csproj.CoreCompileInputs.cache
+D:\Projects\Avows_fomema\git\fomema_HR\Fomema_HR\Fomema.DAL\obj\Release\netcoreapp3.1\Fomema.DAL.dll
+D:\Projects\Avows_fomema\git\fomema_HR\Fomema_HR\Fomema.DAL\obj\Release\netcoreapp3.1\Fomema.DAL.pdb
+D:\Projects\Avows_fomema\git\fomema_HR\Fomema_HR\Fomema.DAL\obj\Release\netcoreapp3.1\Fomema.DAL.genruntimeconfig.cache

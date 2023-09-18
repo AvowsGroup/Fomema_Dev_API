@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "NPhzA5XAQXhLx0hP6U3xpj+qW3UMs9O7J4Ii2wglCGbeRW++zUne8NgfjnTD6e3BESievvTDqCg9dxUf1ytkQg==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Avows_fomema\\git\\fomema_HR\\Fomema_HR\\Fomema.Utility\\Fomema.Utility.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Durga Prasad Avows\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\Durga Prasad Avows\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\Durga Prasad Avows\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512",
+    "C:\\Users\\Durga Prasad Avows\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
